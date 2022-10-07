@@ -1,7 +1,7 @@
 {
   "name": "quote-project",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://kpkishankrishna.github.io/Moodlifter/",
   "dependencies": {
     "-": "^0.0.1",
