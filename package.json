@@ -2,7 +2,7 @@
   "name": "quote-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kpkishankrishna.github.io",
+  "homepage": "https://kpkishankrishna.github.io/Moodlifter",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
