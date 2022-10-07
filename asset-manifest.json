@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.48e4895a.css",
-    "main.js": "/static/js/main.033197f6.js",
-    "static/media/pexels-ian-turnell-709552.jpg": "/static/media/pexels-ian-turnell-709552.ca6588406e4e4b870f35.jpg",
-    "index.html": "/index.html",
-    "main.48e4895a.css.map": "/static/css/main.48e4895a.css.map",
-    "main.033197f6.js.map": "/static/js/main.033197f6.js.map"
+    "main.css": "/Moodlifter/static/css/main.b0b4af6a.css",
+    "main.js": "/Moodlifter/static/js/main.033197f6.js",
+    "static/media/pexels-ian-turnell-709552.jpg": "/Moodlifter/static/media/pexels-ian-turnell-709552.ca6588406e4e4b870f35.jpg",
+    "index.html": "/Moodlifter/index.html",
+    "main.b0b4af6a.css.map": "/Moodlifter/static/css/main.b0b4af6a.css.map",
+    "main.033197f6.js.map": "/Moodlifter/static/js/main.033197f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.48e4895a.css",
+    "static/css/main.b0b4af6a.css",
     "static/js/main.033197f6.js"
   ]
 }
